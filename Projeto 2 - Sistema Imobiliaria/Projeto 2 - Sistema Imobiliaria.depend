@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\facury\documents\projeto 2 - sistema imobiliaria\main.cpp
+	<iostream>
+
+1537414074 source:c:\users\facury\documents\projeto 2 - sistema imobiliaria\src\endereco.cpp
+	"Endereco.h"
+
+1537415462 c:\users\facury\documents\projeto 2 - sistema imobiliaria\include\endereco.h
+	<string>
+	<iostream>
+
+1537417361 source:c:\users\facury\documents\projeto 2 - sistema imobiliaria\src\apartamento.cpp
+	"Apartamento.h"
+
+1537417086 c:\users\facury\documents\projeto 2 - sistema imobiliaria\include\apartamento.h
+	"Imovel.h"
+	<string>
+
+1537415462 c:\users\facury\documents\projeto 2 - sistema imobiliaria\include\imovel.h
+	<string>
+	<iostream>
+	"Endereco.h"
+
+1537422532 source:c:\users\facury\documents\projeto 2 - sistema imobiliaria\src\casa.cpp
+	"Casa.h"
+
+1537415410 c:\users\facury\documents\projeto 2 - sistema imobiliaria\include\casa.h
+	"Imovel.h"
+	<string>
+
+1537413869 source:c:\users\facury\documents\projeto 2 - sistema imobiliaria\src\imovel.cpp
+	"Imovel.h"
+
+1537413791 source:c:\users\facury\documents\projeto 2 - sistema imobiliaria\src\terreno.cpp
+	"Terreno.h"
+
+1537422532 c:\users\facury\documents\projeto 2 - sistema imobiliaria\include\terreno.h
+	"Imovel.h"
+	<string>
+
+1537415194 source:c:\users\facury\documents\projeto 2 - sistema imobiliaria\src\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+
+1537415462 c:\users\facury\documents\projeto 2 - sistema imobiliaria\include\sistemaimobiliaria.h
+	<string>
+	"Imovel.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Endereco.h"
+	<iostream>
+
